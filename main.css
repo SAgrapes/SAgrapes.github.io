@@ -3,7 +3,7 @@ body{
   font-family:verdana;
 }
 body{
-  color:white;
+  color:red;
 }
 p{ 
   text-align:center; 
@@ -11,4 +11,10 @@ p{
   border-width:2px;
   border-color:red;
   border-radius:2px;
+  padding: 25px 25px;
+  background-color:white;
+}
+a:hover{
+   background-color:red;
+  color:red
 }

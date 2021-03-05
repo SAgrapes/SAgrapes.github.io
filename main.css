@@ -1,20 +1,18 @@
 body{ 
   background-color:pink; 
   font-family:verdana;
-}
-body{
   color:red;
+  padding:100px;
 }
 p{ 
   text-align:center; 
-  border:2px solid red; 
-  border-radius:2px;
+
   padding: 25px 25px;
   background-color:white;
-}
+  }
 a:hover{
    background-color:red;
-  color:red;
+  color:white;
    cursor:pointer;
 }
 a:link{

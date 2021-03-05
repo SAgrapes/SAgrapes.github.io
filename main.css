@@ -16,5 +16,7 @@ p{
 }
 a:hover{
    background-color:red;
-  color:red
+  color:red;
+   cursor:pointer;
+  
 }
